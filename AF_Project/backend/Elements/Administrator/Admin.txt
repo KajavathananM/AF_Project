@@ -1,0 +1,36 @@
+// register json object
+{
+    "name":" ",
+    "contactNo":" ",
+    "address":" ",
+    "email":" ",
+    "password":" "
+}
+{
+    "name":" ",
+    "contactNo":" ",
+    "address":" ",
+    "email":" ",
+    "password":" "
+}
+
+//login jsons
+{
+  "email":" ",
+  "password":" "
+}
+{
+  "email":" ",
+  "password":" "
+}
+
+//register url
+http://localhost:4000/Administrators/register
+
+//login url
+http://localhost:4000/Administrators/login
+
+//retrieve profile url
+http://localhost:4000/Administrators/profile/5d093165417a6a261010e05d       Note: profile/:id
+//retrieve admin list url
+http://localhost:4000/Administrators/adminList
