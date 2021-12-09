@@ -1,0 +1,29 @@
+{
+     "sender":{
+       "email":" ",
+       "password":" "
+     },
+     "reciever":{
+         "email":" ",
+         "password":" ",
+         "userRole":"Administrator"
+     }
+}
+
+{
+     "sender":{
+       "email":" ",
+       "password":" "
+     },
+     "reciever":{
+         "email":" ",
+         "password":" ",
+         "userRole":"Instructor"
+     }
+}
+
+
+url
+
+http://localhost:4000/Emails/sendAdmin
+http://localhost:4000/Emails/sendIns
